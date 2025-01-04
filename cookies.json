@@ -1,0 +1,62 @@
+[
+  {
+    "name": "SESSION",
+    "value": "9090kj5gbcpjdgqp9m241scube",
+    "domain": ".rentila.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "1491865509SESSION",
+    "value": "59q31bfold18gvba03ctru45dd",
+    "domain": ".www.rentila.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "lang",
+    "value": "fr",
+    "domain": ".www.rentila.com",
+    "path": "/",
+    "expires": 1767437500.659869,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.1.359372036.1735901495",
+    "domain": ".rentila.com",
+    "path": "/",
+    "expires": 1770461500.2068,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "logindevice",
+    "value": "7c71c86082024f062a3e4a4179ef6207",
+    "domain": ".www.rentila.com",
+    "path": "/",
+    "expires": 1770461499.295906,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga_4MYJGY39NH",
+    "value": "GS1.1.1735901495.1.1.1735901500.55.0.0",
+    "domain": ".rentila.com",
+    "path": "/",
+    "expires": 1770461500.206706,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]

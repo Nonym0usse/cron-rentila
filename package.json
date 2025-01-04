@@ -1,0 +1,22 @@
+{
+  "name": "cron-invoice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.5",
+    "@types/nodemailer": "^6.4.17"
+  },
+  "dependencies": {
+    "@types/unzipper": "^0.10.10",
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "nodemailer": "^6.9.16",
+    "unzipper": "^0.12.3"
+  }
+}
