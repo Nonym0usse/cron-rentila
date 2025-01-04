@@ -11,7 +11,7 @@ const password = process.env.PASSWORD || "";
 
 export default async function scrapeData() {
 
-    const browser = await chromium.launch({ headless: false });
+    const browser = await chromium.launch({ headless: true });
     const context = await browser.newContext({
         storageState: 'cookies.json'
     });
